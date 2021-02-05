@@ -17,6 +17,7 @@ export const Menu = styled.div `
 
 export const PageBody = styled.div `
   display: flex;
-  background-color: #0000FF;
+  background-color: #00980D;
+  background-image: url('/assets/Devsfood_img/bg.png');
   flex: 1;
 `;

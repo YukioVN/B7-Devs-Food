@@ -20,4 +20,5 @@ export const PageBody = styled.div `
   background-color: #00980D;
   background-image: url('/assets/Devsfood_img/bg.png');
   flex: 1;
+  overflow-y: auto;
 `;

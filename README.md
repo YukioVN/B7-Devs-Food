@@ -12,7 +12,7 @@
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="page screen" src="./public/assets/Devsfood_img/screen1.png" width="600px" height="600px">
+  <img alt="page screen" src="./public/assets/Devsfood_img/screen1.png" width="400px" height="400px">
 </p>
 
 #### Running the web application (Frontend)

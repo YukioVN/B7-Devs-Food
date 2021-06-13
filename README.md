@@ -41,7 +41,7 @@ $ yarn run start
 
 The following tools were used in the construction of the project:
 
-#### **Website**  ([React](https://reactjs.org/)
+#### **Website**  ([React](https://reactjs.org/))
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 -   **[Styled-components](https://github.com/styled-components/styled-components)**

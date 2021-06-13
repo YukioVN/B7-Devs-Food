@@ -1,6 +1,6 @@
 <h1 align="center">devsFood</h1>
 <h3 align="center">
-  Website layout using only Html and CSS, just for training.
+  Website layout using React JS, just for training.
 </h3>
 
 <h4 align="center"> 
